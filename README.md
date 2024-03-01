@@ -1,14 +1,13 @@
-# Calculator
+## Calculator WebApp
 
 1. Description:
    > Simple Calculator with swipeable Light and Dark theme.
 2. Technologies Used:
    > HTML, CSS, JAVASCRIPT
+3. Visit-Website:
+   > [Calculator](https://k-pragna.github.io/Calculator/Calculator/index.html)
 
-
-### Visit-Website: [Calculator](https://k-pragna.github.io/Calculator/Calculator/index.html)
-
-DEMO - Video
+## DEMO - Video
 
 
 
